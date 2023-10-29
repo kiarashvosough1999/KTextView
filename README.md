@@ -22,7 +22,10 @@ Simplfy bridging UITextView to SwiftUI.
 
 ## Features
 
-- [ ]
+- [x] Self-Sizing textView.
+- [x] UITextView's API are all availble in SwiftUI.
+- [x] Customize the text.
+- [x] Access to UITextView's delegate methods.
 
 ## Requirements
 
@@ -30,7 +33,7 @@ Minimum `swift-tools-version 5.9` is required.
 
 | Platform | Minimum Swift Version | Installation | Status |
 | --- | --- | --- | --- |
-| iOS 14.0+ | 5.9 | [SPM](#cocoapods) | Tested |
+| iOS 13.0+ | 5.9 | [SPM](#cocoapods) | Tested |
 
 ## Installation
 
